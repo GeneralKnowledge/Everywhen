@@ -27,7 +27,7 @@ The relationship at the centre of the book is built on this night, and it is the
 
 | | Adam's account | Nell's account | What happened (see document 02, §4) |
 |---|---|---|---|
-| **Who ended it** | Nell did. She stood there with a bag and said *"Then I'll go."* | Adam did. He said *"I already know how this ends"*, told her to go somewhere with a garden, and then *texted* it to her from the next room. | Both. From 00:48 to 01:12 Adam was in a gap, and his mouth spoke the Week 6 script. Nell heard it as a verdict and went to pack. Adam came back to find her leaving. |
+| **Who ended it** | Nell did. She stood there with a bag and said *"Then I'll go."* | Adam did. He said *"I already know how this ends"*, told her to go somewhere with a garden, and then *texted* it to her from the next room. | Both. From 00:48 to 01:12, in the early hours of Friday, Adam was in a gap, and his mouth spoke the Week 6 script. Nell heard it as a verdict and went to pack. Adam came back to find her leaving. |
 | **His manner** | Exhausted, trying to listen. He put the radio on to calm things down. | Absent. *"You turned the radio ON."* He spoke "as if he were reading something out", and about her in the third person. | Both accurate. The second describes the gap. |
 | **Her evidence** | — | The 01:10 text, which she kept. The earring line: *"you knew I'd lost it."* The word *everywhen*. | Accurate memory of K2. |
 | **His evidence** | His 01:30 diary entry. Jo's account of Nell's 01:20 call (*"I've told him I'm going"*). | — | Accurate memory of everything outside the gap. |
@@ -100,12 +100,12 @@ There are seven anomalies, in the order the reader meets them. Each one follows 
 |---|---|
 | **Adam's initial interpretation** | She has rewritten the night to make herself the one who was left. She's mixing it up with another argument. |
 | **Best alternative (hers)** | He was drinking, he's rewritten it, and that's what he does. |
-| **Evidence for her (W4)** | His old phone has a text sent at 01:10, Y−4: *"I already know how this ends. You should go somewhere with a garden."* He has no memory of sending it. Theory A: he'd been drinking, or dissociating. |
+| **Evidence for her (W4)** | His old phone has a text sent at **Fri** 01:10, Y−4, in the early hours after "that Thursday": *"I already know how this ends. You should go somewhere with a garden."* He has no memory of sending it. Theory A: he'd been drinking, or dissociating. |
 | **Evidence for him (W5)** | His diary entry, written at 01:30 that night in fountain pen, says *"N. said she's going. Didn't argue. Don't understand."* Jo confirms that Nell's 01:20 call said *"I've told him I'm going."* |
-| **The escalation (W6 into W7)** | At 01:10 on Thursday of W6, Nell receives a text identical, word for word and to the minute, to the one from four years ago. She takes it as cruelty. Then, in W7, she sends him the screenshot: *"Is this a joke?"* That makes her a witness to the anomaly, not just a source for it. |
+| **The escalation (W6 into W7)** | At 01:10 on Thursday of W6, Nell receives a text identical, word for word, to the one from four years ago. It's in the same thread, from the same number, at the same minute past midnight. She takes it as cruelty. Then, in W7, she sends him the screenshot: *"Is this a joke?"* That makes her a witness to the anomaly, not just a source for it. |
 | **Unexplained until Movement V** | How a man can end a relationship without experiencing doing so. |
 | **Relationship consequence** | This is the main thread. Adam investigates Nell behind her back in W5 to test her account, which is the flaw in action. She finds out, and it's part of why she says he is *"hiding in it."* |
-| **Truth** | Nell's account covers the gap, from 00:48 to 01:12. Adam's covers everything else. The words she has held against him were spoken by him, from Week 6. |
+| **Truth** | Nell's account covers the gap, from 00:48 to 01:12 on Friday. Adam's covers everything else. The words she has held against him were spoken by him, from Week 6. |
 
 ---
 
@@ -125,7 +125,7 @@ There are seven anomalies, in the order the reader meets them. Each one follows 
 | **The trap (Theory A's best move)** | Adam read *"she says I'm hiding in it"* in W4, and then steered the W6 argument towards it. Did he cause it? Then he finds the Y−5 email, which shows it was already Nell's phrase (L18). That has an origin. The sentence doesn't (L4). |
 | **The revelation (W9)** | Barrow finds her original notebook, a verbatim transcript of the boy's twenty-four minutes. Reading it, Adam recognises **his own monologue from Wednesday night in Week 6**, line for line, including the answer *"Everywhen"* to a question he heard and dismissed as tiredness. |
 | **Fair-play clue** | The K3 chapter contains Barrow's voice asking *"Can you tell me where you are, Adam?"* and the smell of collodion. A reader who remembers the GP letter can get there before he does. |
-| **Truth** | K1 is a gap end of the Knot. Barrow transcribed the script. |
+| **Truth** | K1 is a gap end of the Knot. Barrow transcribed the script. Her timestamps are offset from Adam's clock by the difference between the 1993 and present-day broadcast times, but the intervals match his Wednesday night minute for minute from the start of the forecast. A careful reader with a stopwatch can confirm it. |
 
 ---
 
@@ -254,10 +254,21 @@ The situation in Movement VI is that Nell leaves for Lisbon in W14, and Adam kno
 
 ## 8. What comes next
 
-- **Stage 4: build the relationship around the mystery.** Deepen §1 and §2. In particular:
-  - Nell's life in the four years between;
-  - what Thursday's news really costs her;
-  - the mother thread;
-  - whether Nell has gaps of her own.
-- **Stage 5: write the opening as a proof of concept.** The W1 sequence (the fridge, the earring, the certainty, the walk down Leith Walk) is designed to be that proof. It sets up an ordinary life, a puzzle that is real but deniable, and a compelling, personal reason to act.
-- **Research flags** are listed in document 01, §8.
+The agreed order of work is below. The standing rule is **don't expand the cosmology**: no new folds, no new rules. The next passes should test the design, not make it bigger.
+
+- ✅ **Continuity audit** (draft 1.1):
+  - The broadcast now opens a fold but doesn't hold it open (rules, R5a).
+  - The shallow-fold conditions are set out (rules, R7).
+  - Shared and local content are separated (rules, §3a).
+  - Calendar dates are explicit wherever a window crosses midnight.
+  - The Knot script has been redone minute by minute, with an artefact count.
+- **Stage 4: build the relationship around the mystery.** Deepen §1 and §2. The fold should explain their conflicting memories. It shouldn't explain away their relationship problems. Questions to answer:
+  - What Nell wants apart from Adam.
+  - Why the relationship was already deteriorating before the Knot.
+  - What Adam genuinely loved about her, and what made living with him difficult.
+  - Why the Lisbon job matters to her.
+  - What each of them would consider a meaningful reconciliation, and why it might not be possible.
+  - The mother thread.
+  - Whether Nell has gaps of her own.
+- **Research pass:** the radio schedule (then and now), EEG terminology, forensic handwriting evidence, and Stanner in his cultural context. These are listed in document 01, §8, along with the cultural note.
+- **Stage 5: the opening as a proof of concept.** Draft the W1 sequence: the fridge, the earring, the certainty and the walk down Leith Walk. The test is whether the reader cares about Adam *before* they understand the phenomenon.

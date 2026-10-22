@@ -18,7 +18,7 @@ The bible is three connected documents. Each can be revised on its own, as long 
 
 1. ✅ Define the observable phenomena (document 03, §3)
 2. ✅ Build the competing explanations (document 03, §3)
-3. ✅ Design the causal structure (documents 01 and 02)
+3. ✅ Design the causal structure (documents 01 and 02), including a continuity audit in draft 1.1
 4. ⬜ Build the relationship around the mystery (a starting sketch is in document 03, §§1–2)
 5. ⬜ Write the opening as a proof of concept
 
