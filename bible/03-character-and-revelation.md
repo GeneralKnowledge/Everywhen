@@ -2,10 +2,10 @@
 
 **Document 3 of 3 in the story bible.** Companion documents: [01 Rules](01-rules.md) and [02 Causal timeline and ledger](02-causal-timeline.md).
 
-**Status:** Draft 1.
+**Status:** Draft 1.2.
 
 - **§3 (the seven anomalies)** and **§4 (revelation order)** complete development stages 1 and 2.
-- **§1 and §2** sketch only as much character as the anomalies need. They're a starting point for stage 4, not a finished version of it.
+- **§§1.1–1.6** are the stage 4 character pass: Adam and Nell apart from the mystery, why the relationship was failing anyway, and what reconciliation would mean.
 - **§7** keeps the ending open, as the brief asks.
 
 ---
@@ -21,6 +21,91 @@
 | **Jo Imrie** | Nell's sister. A witness to the aftermath of the break-up. | Nell's version of events, with Nell's own call at 01:20 as proof. |
 | **A colleague** *(unnamed)* | The voice of Theory A: a fraud investigator who has seen every way people fool themselves. Could also be the document examiner in W8. | That there's always an ordinary explanation. |
 
+> **The governing rule for §§1.1–1.6:** the fold explains why their memories conflict. It does **not** explain away their problems. Without the Knot they would still have broken up, within months, for the reasons below. What the Knot decided was *how* it ended and *who each of them believes ended it*, not *whether* it would end.
+
+### 1.1 Nell, apart from Adam
+
+**What she wants is a place she has chosen, and the time to watch it grow.**
+
+- Nell grew up in rented flats in Dundee and moved seven times before she was fifteen. Her father was in and out of work, and her mother restless.
+- She designs gardens for a living and almost never sees one mature. Clients sell up, budgets end, and she moves on to the next job.
+- To her, a garden is a promise that someone will still be there in ten years. She has never made that promise on her own behalf.
+
+**Her flaw is that she forces the conversation before it's ready.** She names things early and sets deadlines on feelings, because to her, waiting feels like being left. She would rather know the worst on Thursday than live with a maybe until spring. This makes her brave, and sometimes unfair: she asks for an answer to a question the other person hasn't finished thinking about.
+
+**After Adam (Y−4 to Y):** she spent two years with Callum, a kind man with a house in Fife and a large garden. He asked her to move in. She said no, and she couldn't explain why to him, though she could to herself: it would have been *his* garden. That detail matters. Her want is not "a garden" or "a man". It's something that is hers by choice.
+
+**Why Lisbon matters:** the offer is to lead the planting for a ten-year restoration of a terraced public garden *(fictional; to be specified)*, with a small flat with a walled yard thrown in.
+- It would be the first garden she sees grow up.
+- It's the first thing she has wanted that doesn't depend on anyone choosing her.
+- That's why it frightens her, and why she wanted to tell Adam in person.
+
+**What she wanted from Thursday (W6):** *not* to ask. Four years ago she asked whether they had a future, and the answer she heard was *"I already know how this ends."* She won't be the one asking again. She wanted to tell him about Lisbon and see whether **he** would ask her to stay. The memo tells him not to ask. The relationship's oldest pattern (she asks, he holds back) has been turned into a piece of evidence that he obeys.
+
+### 1.2 Adam, apart from Nell
+
+**What he wants is to be the one who stays.**
+
+- His father left when Adam was eight, without an explanation that anyone ever gave him.
+- Adam's whole adult life is an answer to that: a job in explaining, a flat he has owned for eight years, a diary of facts kept every night.
+- His private account of himself is that he is not his father. He has believed that Nell's leaving proves it: *she* went, and *he* stayed.
+
+**The flaw (from the brief):** he assumes that if he can understand something completely, he'll know how to feel about it. In practice, he treats feelings as claims to be assessed. Bring him a complaint and he'll investigate it and come back with findings. He hardly ever says what he wants, because a want can't be verified.
+
+**What the mystery costs him in particular:** Movement V doesn't only tell him that time is strange. It tells him that **he ended it**: that, by his own account of himself, he is the one who left. The Knot attacks the identity he has built in reply to his father. That is the personal stake under the puzzle.
+
+### 1.3 Why it was failing before the Knot
+
+These problems are all real, and none of them is caused by a fold.
+
+| Problem | His side | Her side |
+|---|---|---|
+| **Who asks** | He doesn't ask for anything, so she can't give him anything. | She asks for everything, and then hears his silence as an answer. |
+| **The future** | For two years he put off every decision ("after Mum's hip", "when the market settles"), gathering more information. | She heard each delay as a quiet no. |
+| **His mother** | Margaret's illness began in Y−5. He used looking after her as a reason, and sometimes as a shelter. | She liked Margaret, and resented being the person his duties were always set against. |
+| **The pregnancy scare (Y−5)** *[provisional]* | Relief, when the test came back negative. He never mentioned it. | She saw the relief, and never forgot it. |
+| **His absences** | He has hidden his lapses from her and calls them nothing. | She took them for emotional withdrawal. Sometimes she was right, and sometimes it was something else. Her *"Where are you, Adam?"* at K2 is a question she had asked many times before. |
+| **The kitchen** | He loves the swallow tiles, which were the first thing he saw when he viewed the flat. | She wanted to retile. *"Your swallows"* became a joke, and then not one. |
+| **The radio at night** | It's how he sleeps. | It shut her out. That's why switching it on mid-argument at K2 felt deliberate to her. |
+
+**What the Knot changed:** the Thursday argument at Y−4 was going to end the relationship anyway. Nell had come to put the question one last time, with new earrings to make it feel like an occasion and not an ambush. Without the fold, Adam would most likely have hedged, and she would have gone within weeks. The fold made it quick, put the words in his mouth and left each of them sure that the other was the one who chose.
+
+### 1.4 What Adam loved about her, and what was hard about him
+
+**What he loved about her:**
+- She says the thing.
+- She notices the physical world: the Latin names of plants, which way the weather is turning, the state of a hinge.
+- She got him out of the house.
+- She laughed at his lists, and then used them.
+- She was the only person who ever asked him where he was, and meant it as an invitation rather than an accusation.
+
+**What made living with him hard:**
+- Being investigated instead of answered.
+- Never knowing what he wanted.
+- Losing him to the radio, to his mother and to the lapses he wouldn't name.
+- Feeling she had to argue her own feelings like a claim, with evidence.
+
+### 1.5 What each would count as reconciliation, and why it might not be possible
+
+| | What would count | Why it might not be possible |
+|---|---|---|
+| **Nell** | To be asked. To hear Adam say what he wants, without evidence or an explanation attached. | The truth about the fold *is* an explanation. If he tells her, he risks being exactly what she accused him of: hiding in it. |
+| **Adam** | To be understood: to have her accept that he didn't mean it, and that the words were tender. Reconciliation as acquittal. | It's the wrong want. And it isn't even true. In Week 6 he *was* letting her go: *"You should go somewhere with a garden"* was an apology and a release at once. The words were his, at both ends. |
+| **Both** | To put down what each has been holding against the other. | The problems in §1.3 are real and still there. Lisbon is real and good for her, and asking her to stay could be the same taking in a new form. Even if she believes the fold, believing it doesn't mend anything. |
+
+These are conditions, not endings. Each of the three ending directions in §7 is a different answer to the same question: can Adam ask Nell for something without first proving he's entitled to it?
+
+### 1.6 Kept open on purpose
+
+- **The mother thread. [open, with a direction]** All his life, Adam has taken the kitchen dream (Anomaly 6) to be his mother packing his father's bag, throwing him out. He has held his father's leaving against her ever since. In her papers, his father's letters show the father left by choice. And the woman in the dream was Nell, packing her own bag, in a kitchen where the man she was leaving was Adam. *He has blamed his mother for something he did himself.* She is dead, so the apology he owes her can't be given. **Still open:** whether Margaret read the atlas note, and whether she recognised her grown son's handwriting in it.
+- **Does Nell have gaps? [open]** There are three options:
+  - **(a)** None. She is the clean outside witness. This is the simplest option.
+  - **(b)** Shallow folds only. For example, at W6 Thu 01:10 she "already knew" what the text would say before she opened it.
+  - **(c)** Deep folds. *Not recommended:* it expands the cosmology, which this pass has agreed not to do.
+
+  My recommendation is (a) or (b). Leave the choice until the opening is drafted.
+- **Helen Barrow's stake.** In Y−31 she reported the episode honestly. The consultant softened it to "confabulation", and she let that stand. For thirty years she has wondered whether staying quiet was cowardice or kindness. Meeting Adam is how she settles it. *[A minor thread. Keep it small.]*
+
 ## 2. The break-up night: three accounts
 
 The relationship at the centre of the book is built on this night, and it is the brief's emotional question in its sharpest form: *"If the past I remember is not the past we shared, what exactly have I been holding against you?"*
@@ -31,7 +116,7 @@ The relationship at the centre of the book is built on this night, and it is the
 | **His manner** | Exhausted, trying to listen. He put the radio on to calm things down. | Absent. *"You turned the radio ON."* He spoke "as if he were reading something out", and about her in the third person. | Both accurate. The second describes the gap. |
 | **Her evidence** | — | The 01:10 text, which she kept. The earring line: *"you knew I'd lost it."* The word *everywhen*. | Accurate memory of K2. |
 | **His evidence** | His 01:30 diary entry. Jo's account of Nell's 01:20 call (*"I've told him I'm going"*). | — | Accurate memory of everything outside the gap. |
-| **What each holds against the other** | That she walked out on something he was trying to save. | That he dismissed her, and was cruel about the earring she had bought for that night. | That the cruelty was tenderness, spoken by a man four years in the future, alone in an empty kitchen and rehearsing an apology. |
+| **What each holds against the other** | That she walked out on something he was trying to save. | That he dismissed her, and was cruel about the earring she had bought for that night. | That the words came from a man four years in the future, alone in an empty kitchen and rehearsing an apology, which is tender and also a release. They were his at both ends. The argument that came before them was real, and so are the problems behind it (§1.3). |
 
 **The design rule here:** Nell isn't secretly responsible for anything, and she doesn't hold the whole explanation. Her conflicting experience is real evidence of the phenomenon, and the novel has to treat it that way.
 
@@ -217,6 +302,7 @@ These are clues a careful reader can catch before Adam does. Each one should app
 | **"Today 00:50"** under the memo's title | W6 Tue | Anomaly 5 |
 | Barrow's voice and the smell of collodion | W6, the K3 chapter | Anomaly 4 |
 | Nell: *"You turned the radio ON. In the middle of it."* | W3, her account | Anomaly 3 and R5 |
+| Nell's *"your swallows"*, from the old argument about retiling | W3, in passing | Anomaly 6, and §1.3 |
 
 ## 6. Testing the major revelations
 
@@ -262,7 +348,7 @@ The agreed order of work is below. The standing rule is **don't expand the cosmo
   - Shared and local content are separated (rules, §3a).
   - Calendar dates are explicit wherever a window crosses midnight.
   - The Knot script has been redone minute by minute, with an artefact count.
-- **Stage 4: build the relationship around the mystery.** Deepen §1 and §2. The fold should explain their conflicting memories. It shouldn't explain away their relationship problems. Questions to answer:
+- ✅ **Stage 4: build the relationship around the mystery** (draft 1.2, §§1.1–1.6). Still open: Nell's gaps, Margaret and the atlas note, and whether to keep the pregnancy scare. The questions below were the brief for the pass. The fold should explain their conflicting memories. It shouldn't explain away their relationship problems. Questions to answer:
   - What Nell wants apart from Adam.
   - Why the relationship was already deteriorating before the Knot.
   - What Adam genuinely loved about her, and what made living with him difficult.

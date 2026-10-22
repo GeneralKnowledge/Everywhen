@@ -71,8 +71,10 @@ What passes each way:
 | Y−10 | The previous owner retiles the kitchen of the flat in Marchmont. | L16 |
 | Y−8 | Adam, now 33, buys the flat. | L16 |
 | Y−6 / Y−5 | Adam meets **Nell Imrie**, and she moves in. In a Y−5 email Nell writes "you're hiding in it again". | L18 |
+| Y−5 | Margaret's illness begins, and Adam becomes her carer at weekends. There is a pregnancy scare *[provisional]*: the test is negative, and Nell sees his relief. Nell wants to retile the kitchen and Adam refuses ("your swallows"). See document 03, §1.3. | |
 | **Y−4, Thu** | That afternoon Nell buys green glass earrings. They argue all evening. At ~23:30 she takes off an earring and it falls under the fridge. She doesn't notice. | L1 |
 | **Y−4, Fri 00:45–01:30 (K2)** | At **00:45** Adam turns the radio on (*Sailing By*). **00:48 to 01:12** is the gap (§4). At **01:02** Nell lifts her bag from the kitchen chair and goes to the bedroom to pack. At **01:10** the text arrives from the kitchen. At **01:12** Nell appears in the doorway with the bag: *"Then I'll go."* The fold closes. At ~**01:20** Nell rings Jo from the stair: *"I've told him I'm going."* At **01:30** Adam writes in his diary. He uses the **Thursday** page, as people do after midnight: *"N. said she's going. Didn't argue. Don't understand."* | L4, L5, L8, L10, L17, P1 |
+| Y−3 to Y−1 | Nell is with Callum. She turns down his invitation to move into his house in Fife (document 03, §1.1). | |
 | Y−4 to Y | They have no contact. Adam gets a new handset but **keeps his number**, and puts the old phone in a drawer. Nell keeps her number and her message history. | L8, L10 |
 | Y, two months before W1 | Adam's mother, Margaret Rennick, dies. | |
 | **W0** | The funeral. A death notice runs in *The Scotsman*. | L14 |
