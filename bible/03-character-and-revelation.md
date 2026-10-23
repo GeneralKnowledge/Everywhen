@@ -2,10 +2,10 @@
 
 **Document 3 of 3 in the story bible.** Companion documents: [01 Rules](01-rules.md) and [02 Causal timeline and ledger](02-causal-timeline.md).
 
-**Status:** Draft 1.2.
+**Status:** Draft 1.3.
 
 - **§3 (the seven anomalies)** and **§4 (revelation order)** complete development stages 1 and 2.
-- **§§1.1–1.6** are the stage 4 character pass: Adam and Nell apart from the mystery, why the relationship was failing anyway, and what reconciliation would mean.
+- **§§1.1–1.9** are the stage 4 character pass. §§1.1–1.6 cover Adam and Nell apart from the mystery, why the relationship was failing anyway, and what reconciliation would mean. §§1.7–1.9 add the relationship's arc movement by movement, Nell's own arc, and what the truth costs each of them.
 - **§7** keeps the ending open, as the brief asks.
 
 ---
@@ -105,6 +105,42 @@ These are conditions, not endings. Each of the three ending directions in §7 is
 
   My recommendation is (a) or (b). Leave the choice until the opening is drafted.
 - **Helen Barrow's stake.** In Y−31 she reported the episode honestly. The consultant softened it to "confabulation", and she let that stand. For thirty years she has wondered whether staying quiet was cowardice or kindness. Meeting Adam is how she settles it. *[A minor thread. Keep it small.]*
+
+### 1.7 The relationship, movement by movement
+
+The mystery runs on clues. The relationship runs on what each of them believes about the other, and every movement should shift that belief by one notch, and only one. This table is the relationship's version of §4 (revelation order).
+
+| Movement | What Adam believes about Nell | What Nell believes about Adam | Key scene between them | What shifts | What it costs |
+|---|---|---|---|---|---|
+| **I. The discrepancy** (W1–W3) | She left, and she has rewritten that night ever since. | He ended it. The earring is a pretext, and he still can't ask for anything directly. | **The landing** (W1, drafted). **The coffee** (W3): she agrees to meet because he described an earring he'd never seen. | Each finds out that the other *really believes* their own version. It isn't a tactic. | The certainty that let each of them live without the other. |
+| **II. The pattern** (W4–W6 Tue) | She's sincere but mistaken, and he can prove it. So he starts checking her account behind her back (Jo, old emails). | He's turned her into a claim. Privately, she is shaken too: Jo remembers her saying *"I've told him I'm going,"* which supports *his* version. | **"Am I a claim?"** (W5): she finds out he's been asking Jo questions. On the Monday of W6 she still asks to meet on Thursday. | Each is now holding evidence against their own account, and neither admits it. | Her trust that he'll let her be a person rather than a witness. |
+| **III. The mechanism** (W6) | His model can explain her: the loop, the memo, Thursday. Obeying the memo feels like protecting her. | He has gone cold again, exactly as he did four years ago. | **The kitchen** (W6 Wed): her first time back in four years. She sees the swallows and the new fridge. *"You're hiding in it."* *"Maybe I should just go."* Then the 01:10 text. | She stops waiting to be asked, and accepts Lisbon. | Thursday. |
+| **IV. The contradiction** (W7–W8) | His model has failed, and he doesn't know what she is to the evidence any more. | *"Is this a joke?"*, then a decision of her own: to look at the evidence with him, on her terms. | **The two texts** (W7): she sets her phone on his table. *"01:10. Both times."* And: *"If you sent it to yourself, you sent it to me."* | She moves the question from *how* to *who is responsible*. She becomes his fellow investigator, and she's better than him at that question. | His hope that the mechanism would let him off. |
+| **V. The reclassification** (W9–W11) | She was right: the words were his. | He has been "going away" in front of her for years and told her she was imagining it. | **The telling** (W10): the first time Adam has told anyone about his lapses. Her response isn't disbelief. It's grief: *"You went away in front of me for two years and let me think it was me."* | Each puts down part of what they've held against the other. Adam: *"It was me. Later."* Nell: *"I asked you to confirm what I was afraid of. I never asked what you wanted."* | Adam's picture of himself as the one who stays (§1.2), and Nell's picture of herself as the one who was sent away. |
+| **VI. The personal consequence** (W12–W14) | **[open]** | **[open]** | **[open]**. See §7. | Can he ask her for something without first proving he has the right to? | **[open]** |
+
+### 1.8 Nell's arc, apart from Adam's
+
+Nell needs a question of her own, or she ends up as the place where Adam's discoveries land. Hers isn't *"what happened that night?"* It's ***"Do I stop waiting to be chosen?"***
+
+- **At the start:** she has organised her life around never asking again. She turned down Callum's garden because it was his. She has Lisbon in her pocket and is waiting to see whether anyone gives her a reason not to go.
+- **The middle:** Adam gives her no reason, because the memo tells him not to. She accepts Lisbon, *for herself*, before she knows anything about folds. That decision has to be shown as hers, with its own grief and excitement, and not as a reaction to him.
+- **Her share of the truth (Movement V):** the fold put the words in Adam's mouth, but she heard what she had come braced to hear. She asked him to confirm her fear, not to tell her what he wanted. That's the counterweight to Adam's flaw, and it's what stops her becoming simply the wronged party.
+- **What she contributes to the investigation:**
+  - she is the outside witness to K2;
+  - she notices that both texts arrived at 01:10;
+  - she turns the question from mechanism to responsibility.
+
+  Her eye is trained on slow processes (plants, seasons, how a garden fills in), so she trusts gradual evidence over instant explanations. That makes her a natural sceptic of Adam's loop theory.
+- **A design rule for the ending:** whatever happens, **Lisbon stays hers.** No ending may reverse her decision just because Adam has had a revelation. If she stays, it is for reasons of her own that the book has earned. If she goes, the going isn't a defeat.
+
+### 1.9 What the truth costs each of them
+
+| | What they lose | What they gain | What they're left owing |
+|---|---|---|---|
+| **Adam** | His innocence about the break-up, and his idea of himself as the man who stays. | The words were tender as well as final. And for the first time, he can tell someone about the lapses. | An apology to his mother that can't be delivered (§1.6). An honest question to Nell, with no evidence attached. |
+| **Nell** | The four-year story in which she was dismissed, and the clarity that came with it. | That the sentence wasn't contempt. And the knowledge that she didn't cause his absences. | An admission that she heard what she expected to hear. |
+| **Both** | The version of the past each of them could hold against the other. | A shared past that neither of them fully lived. | Whatever they choose to do with that, which is the ending, and is still **[open]**. |
 
 ## 2. The break-up night: three accounts
 
