@@ -79,7 +79,7 @@ What passes each way:
 | Y, two months before W1 | Adam's mother, Margaret Rennick, dies. | |
 | **W0** | The funeral. A death notice runs in *The Scotsman*. | L14 |
 | **W1 Thu ~21:10** | The fridge breaks. Moving it, Adam finds the earring, puts it in his coat pocket and knows he'll lose it tomorrow (F1). He decides to hand it back to Nell in person. | L1, L1c |
-| **W1 Fri ~17:40** | On Leith Walk, the earring slips through a hole in his pocket lining and out through a drain grating (F1). He arrives at Nell's empty-handed. | L1 |
+| **W1 Fri ~17:40** | On Leith Walk, the earring slips through a hole in his pocket lining and out through a drain grating (F1). He arrives at Nell's empty-handed. On the landing comes the first spark: *"The night you ended it." / "The night you left."* (draft/01-opening.md). | L1 |
 | **W2 Sat** | Adam sleeps at his mother's house and finds the atlas and the note. He brings the atlas back to his flat. | L2 |
 | **W3** | Adam and Nell have coffee, and their accounts collide. Nell: *"You said you were everywhen."* *"How did you know it was under the fridge?"* | L4, L5 |
 | **W4** | Adam's old phone holds the Y−4 text, timestamped **Fri 01:10**, and a muffled memo titled "Thursday" from **Fri 00:50**. Helen Barrow sends a card. When they meet she asks, *"Did you ever find the earring?"* The GP letter turns up in his mother's papers. | L8, L10, L13, L14 |

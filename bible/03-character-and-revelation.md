@@ -175,7 +175,7 @@ There are seven anomalies, in the order the reader meets them. Each one follows 
 
 ### Anomaly 3: The conversation Nell remembers
 
-**Introduced:** W3 (Movement I into II). **Evidence for her account:** W4. **Evidence for his:** W5. **Both accounts reconciled:** W9 to W10. **Ledger:** L4, L5, L10, L11, L17.
+**Introduced:** first spark W1 Fri, on Nell's landing ("The night you ended it" / "The night you left"). Full collision W3 (Movement I into II). **Evidence for her account:** W4. **Evidence for his:** W5. **Both accounts reconciled:** W9 to W10. **Ledger:** L4, L5, L10, L11, L17.
 
 **What happens.** At coffee, Nell says in passing that he ended it. Adam is certain she did. Her version includes things he would never say: *"I already know how this ends"* (the sentence from the atlas), a remark about a garden, the word *everywhen*, and the fact that he knew her earring was under the fridge.
 

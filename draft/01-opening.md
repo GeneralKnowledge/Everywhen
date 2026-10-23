@@ -66,7 +66,7 @@ He unplugged it at the wall and plugged it in again, which did nothing, and he k
 
 Behind it, the wall was tiled to shoulder height, like the rest of the kitchen. The tiles were white, and on every fifth one there was a small blue swallow, wings back, going somewhere in a hurry. They had been here when he viewed the flat. He had stood in the doorway, seen them, and known before he looked at the bedroom, the boiler or the survey that he was going to buy the place, which had alarmed him, because it wasn't how he made decisions. Nell had wanted to retile. *Your swallows*, she called them. It started as a joke and then it stopped being one.
 
-On the floor in the gap was eight years of what falls behind a fridge: dust gone grey and soft, a teaspoon, a fridge magnet from a pizza place that had closed before the pandemic, a dried husk of something that had once been a grape.
+On the floor in the gap was five years of what falls behind a fridge: dust gone grey and soft, a teaspoon, a fridge magnet from a pizza place that had closed before the pandemic, a dried husk of something that had once been a grape.
 
 And an earring.
 
@@ -78,7 +78,7 @@ It had to be Nell's. Nobody else had lived here. Nobody else had been in this ki
 
 He had never seen this one in his life.
 
-He stood there for a while. Then, because it was the kind of thing he did, he went through the alternatives as he would have at work. A friend of hers, at a dinner? They hadn't really had dinners. A cleaner? They'd never had one. Something from before he bought the flat, the previous owner's? But the previous owner had retiled the kitchen, and the fridge space had been empty until he and Nell filled it. So it came from after the fridge. It came from them.
+He stood there for a while. Then, because it was the kind of thing he did, he went through the alternatives as he would have at work. A friend of hers, at a dinner? They hadn't really had dinners. A cleaner? They'd never had one. The previous owner's? No. When they swapped out his old fridge for this one, he'd mopped the bare floor of the gap himself, on his knees, while Nell read the instruction leaflet aloud in a silly voice. So it came from after the fridge. It came from them.
 
 He went into the hall and put it in the pocket of his coat, which was hanging by the door, so that he wouldn't forget it. He kept his hand closed around it in the pocket for a moment, as if it might try to leave.
 
@@ -110,7 +110,7 @@ He read it four times and sent it. Then he went back into the kitchen and finish
 
 The reply came at twenty past ten.
 
-*Ferry Road end of Leith Walk. 2F2, the one with the green door. She's not expecting you.*
+*Foot of the Walk. 2F2, the one with the green door. She's not expecting you.*
 
 And then, a minute later:
 
@@ -164,7 +164,7 @@ He noticed that he didn't feel any better.
 
 The sensible thing now was to go home. He had nothing to give her. He had promised Jo he wouldn't stay, and he was in no state to stay. He could write. He could say he was sorry, that he'd found something of hers and lost it again, and she could make of that whatever she liked.
 
-He walked on down Leith Walk to the Ferry Road end, and found the green door.
+He walked on down Leith Walk to the Foot of the Walk, and found the green door.
 
 ---
 

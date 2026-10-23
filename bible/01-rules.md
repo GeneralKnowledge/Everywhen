@@ -114,6 +114,17 @@ A brain remembers only what it lived, at the time it lived it. Adam can't rememb
 **R11. Folds can share an end without merging. [provisional]**
 Content passes only between the ends of the same fold. F3 (the memo fold) shares one end, K3, with the Knot. Tuesday's Adam therefore acts out only F3's single minute, the memo, and receives nothing from K1 or K2. *[Alternative to weigh: make T a fourth end of the Knot for one minute. It's tidier, but it would mean Tuesday's body also received the Knot's perceptions.]*
 
+**R12. A near-fold is a lapse with no content. [provisional, and needs Reuben's decision]**
+*This rule closes a continuity gap that drafting the opening exposed.* Adam has had lapses since he was nine (Anomaly 7). But the bible allows only three folds, and only two gaps (K1 and K2) in his whole life. Without a rule to account for them, the lifelong lapses would be either ordinary dissociation, which contradicts Anomaly 7's reclassification, or dozens of off-page folds, which expands the cosmology.
+
+The proposal is that the rhyme in R5 is a matter of degree:
+- When the conditions *almost* hold, a fold starts to open and fails.
+- From the inside, that is a few seconds of absence. Nothing is shared, nothing is enacted, and the EEG is normal.
+- These near-folds are the lapses of his childhood, and the one at Mrs Ferrier's door in the opening chapter.
+- K1 was the first near-fold that opened all the way.
+
+*Alternative:* the lifelong lapses are purely Theory A (neurological or dissociative), and Anomaly 7 is reclassified only for K1 and K2. That's simpler, but it weakens the "he has always been everywhen" reading in Movement V.
+
 ## 3a. What is shared and what is local
 
 This is the core of R3, made precise. **It applies only to Adam.** Other people are never in a fold: Nell, Barrow and Jo perceive and remember normally, and they interpret what they see for themselves.
