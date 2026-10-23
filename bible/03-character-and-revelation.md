@@ -271,7 +271,7 @@ There are seven anomalies, in the order the reader meets them. Each one follows 
 | **Distinguishing evidence** | Barrow's notebook records that **the EEG stayed normal during the episode**: no spike-and-wave activity, fully fluent speech. An absence seizure doesn't look like that. And what he did in the gaps contains information he couldn't yet have had. |
 | **Unexplained, and left that way** | Why him (document 01, §8). |
 | **Relationship consequence** | He has to tell Nell. Telling her means admitting that he has hidden something from her all along, and that the evidence for his "crazy theory" is something he concealed. |
-| **Truth** | The gaps are the folds as experienced from a gap end. He has been, in Nell's word, *everywhen* all his life. |
+| **Truth** | Every lapse he has ever had was a near-fold: a fold that began to open and failed, with nothing shared (rules, R12). K1 and K2 are the two that opened all the way. He has been, in Nell's word, *everywhen* all his life. Mostly it has been an almost. |
 
 ---
 
