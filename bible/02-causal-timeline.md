@@ -9,7 +9,7 @@
 - **Y** is the year of the present action. Adam is 41 in Y. Years before it are written Y−4, Y−31 and so on.
 - The present action runs through weeks **W1 to W14**, from autumn into winter of Y. W0 is his mother's funeral.
 - Times use the 24-hour clock.
-- **Fold times are counted from F+0**, the first words of the late shipping forecast (rules, R5a). At K2, K3 and T, F+0 is 00:48. At K1 it is whatever time the 1993 forecast went out *[to verify]*.
+- **Fold times are counted from F+0**, the first words of the late shipping forecast (rules, R5a). At K2, K3 and T, F+0 is 00:48. At K1 it is **~00:33**, because before October 1995 the late forecast went out about 15 minutes earlier (rules, §8, research note 2). Barrow's watch therefore reads ~15 minutes behind Adam's clock throughout.
 - **Midnight crossings are written in full.** Every fold happens after midnight, so each one has two dates:
   - the *night* it belongs to, which is how the characters talk about it;
   - the *calendar date* of the window, which is what timestamps show.
@@ -89,7 +89,7 @@ What passes each way:
 | W6 Tue–Wed | Adam obeys the memo and puts Nell off. On Wednesday evening she comes to the flat. In the kitchen she says *"You're hiding in it, Adam,"* and *"Maybe I should just go."* She leaves at ~23:30. | L18 |
 | **W6 Thu 00:45–01:12 (K3)** | Adam is alone in the kitchen with the radio on, "closing the loops". He is lucid for the whole of the §4 script. At 01:10 he texts Nell. | L3, L4, L5, L7, L9, L11 |
 | W6 Thu | At 01:10 Nell receives a text identical, word for word, to the one she got four years before, in the same thread from the same number. That evening, she doesn't come. She accepts the job in Lisbon. | L11 |
-| **W7** | Adam compares the two memos he has made this week: Tuesday's background forecast doesn't match Thursday's (**the contradiction**). Nell sends a screenshot of her thread showing both texts, at Fri 01:10 four years ago and Thu 01:10 this week: *"Is this a joke?"* | L6, L7, L11 |
+| **W7** | Adam compares the two memos he has made this week. Through his firm's weather-data channel he gets the Met Office transcripts for both nights, which the Met Office keeps as transcripts, not recordings. Tuesday's background forecast doesn't match Thursday's (**the contradiction**). Nell sends a screenshot of her thread showing both texts, at Fri 01:10 four years ago and Thu 01:10 this week: *"Is this a joke?"* | L6, L7, L11 |
 | **W8** | A document examiner reads the two atlas notes. | L2, L3 |
 | **W9** | Barrow finds her notebook. Its timings are offset from Adam's clock by exactly the difference between the 1993 and present-day broadcast times, but they match his Wednesday night **minute for minute from F+0**. Adam re-hears the Y−4 memo, finds the essay and dates the tiles. | L8, L12, L15, L16 |
 | W10–W11 | Adam tries to fold deliberately and fails (rules, R8). | |
@@ -106,7 +106,7 @@ This is the single most important continuity reference in the bible. The K3 chap
 
 | F+ | K3 clock (Thu W6) | K3: kitchen, alone (lucid) | K2 clock (Fri Y−4) | K2: kitchen, Nell present (gap) | K1: sleep study, Barrow present (gap) |
 |---|---|---|---|---|---|
-| −3 | 00:45 | *Sailing By* on the radio. He sits at the table. | 00:45 | He turns the radio on mid-argument. Nell: *"You turned the radio ON."* | *Sailing By* on Barrow's radio *[or the 1993 equivalent: verify]*. |
+| −3 | 00:45 | *Sailing By* on the radio. He sits at the table. | 00:45 | He turns the radio on mid-argument. Nell: *"You turned the radio ON."* | ~00:30 by Barrow's watch. *Sailing By* on her radio. This requires K1 to fall before the late-August 1993 weekday cut, or on a weekend (rules, §8, research note 3). |
 | 0 | 00:48 | The forecast begins. The fold opens. | 00:48 | The forecast begins. Gap. | The forecast begins. Barrow notes the boy's eyes open, and that he is calm. |
 | 1 | 00:49 | **"Right. Start with what's physical."** He sets out the atlas (with the 1993 note in it), the GP letter and his old phone. | 00:49 | He says it, and starts moving things on the table (keys, the salt, her glass) as if setting out evidence. | Says it. Barrow notes *"adult phrasing"*. He arranges the things on his bed tray. |
 | 2 | 00:50 | Records a memo on his **current** phone: **"Don't ask her about Thursday."** Titles it "Thursday". *(F3 runs at the same minute; see below.)* | 00:50 | Records the same on his **old** phone, held low because Nell is in front of him. She hears herself spoken of in the third person. | No phone. Holds his hand to his ear "as if on the telephone" and says it. |
@@ -114,7 +114,7 @@ This is the single most important continuity reference in the bible. The K3 chap
 | 6 | 00:54 | Writes **"I already know how this ends"** on exercise paper and reads it aloud. | 00:54 | Writes it on the kitchen notepad and says it with her in front of him. | Asks for nothing. Takes paper from his homework book and writes it. Won't show Barrow. |
 | 8 | 00:56 | **"She says I'm hiding in it."** | 00:56 | Nell hears her own phrase used about her. | Barrow notes it verbatim. |
 | 10 | 00:58 | **Hears** a woman's voice, which he takes for tiredness: Barrow's and Nell's blurred into one, *"Can you tell me where you are, Adam?"* For a second it sounds like Nell. He smells something sharp and chemical (collodion). Answers aloud: **"Everywhen."** | 00:58 | Nell: *"Where are you, Adam?"* He answers **"Everywhen."** | Barrow: *"Can you tell me where you are, Adam?"* He answers **"Everywhen."** |
-| ~11 | ~00:59 | The forecast ends, the Radio 4 closedown, then the World Service at 01:00. He doesn't notice. The fold doesn't depend on it (rules, R5a). | ~00:59 | The same on his radio. | Whatever followed on the radio in 1993 *[verify]*. |
+| ~10–12 | ~00:58–01:00 | The forecast ends (~00:58), then the sign-off, the national anthem, and the pips and the World Service at 01:00. He doesn't notice. The fold doesn't depend on it (rules, R5a). | ~00:58–01:00 | The same on his radio. | ~00:43 by Barrow's watch. The forecast ends. What followed in 1993 is *[to verify on BBC Genome]*. |
 | 14 | 01:02 | Rehearsing what he'd like to say to her: **"You should go somewhere with a garden. You always wanted a garden."** | 01:02 | Says it to Nell. She lifts her bag from the chair and goes to the bedroom to pack. | Barrow notes *"talks of a garden"*. **Dream fragment:** a woman with one green earring lifting a bag, in a kitchen with swallows on the tiles. |
 | 17 | 01:05 | Folds his sheet and puts it in the atlas, next to the 1993 note. | 01:05 | Tears off the notepad page, folds it and puts it… **[open: P1]** | Folds his note and puts it in his atlas. |
 | 22 | 01:10 | Texts Nell from his current phone: **"I already know how this ends. You should go somewhere with a garden."** | 01:10 | Sends the same from his old phone to Nell, who is packing in the next room. | No phone. Barrow notes *"moves thumb across palm"*. |

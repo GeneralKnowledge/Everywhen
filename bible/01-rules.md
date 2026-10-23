@@ -76,9 +76,9 @@ The anchor is a *recognition signal*: the moment every end hears the same thing 
 
 After that, the fold lasts as long as (a) and (c) hold at **every** end. It closes the moment any end breaks the rhyme. The broadcast itself can end while the fold carries on.
 
-*Timing for drafting:* at K2, K3 and T, Radio 4's schedule is the same, so clock times line up (*Sailing By* at ~00:45, the forecast at 00:48 and running about 11 minutes to ~00:59, then the Radio 4 closedown and the switch to the World Service at 01:00). The fold opens at 00:48 (F+0) and runs 24 minutes. At K2 it closes at 01:12 (F+24), when Nell walks back into the kitchen carrying a bag. A woman *leaving* is a different situation from a woman *asking where he is*, so the rhyme breaks.
+*Timing for drafting:* at K2, K3 and T, Radio 4's schedule is the same, so clock times line up (*Sailing By* at ~00:45, the forecast at 00:48, ending at about 00:58, then the sign-off, the national anthem, and the pips and the World Service at 01:00). The fold opens at 00:48 (F+0) and runs 24 minutes. At K2 it closes at 01:12 (F+24), when Nell walks back into the kitchen carrying a bag. A woman *leaving* is a different situation from a woman *asking where he is*, so the rhyme breaks.
 
-K1 lines up on F+0, **not on the clock**. If the 1993 late forecast went out at a different time, Barrow's timestamps are offset from Adam's by exactly that difference. That is consistent with the rules, and it's a gift to a careful reader. *[Research flag: confirm the late forecast's time in the early 1990s, and when Radio 4 began handing over to the World Service overnight.]*
+K1 lines up on F+0, **not on the clock**. If the 1993 late forecast went out at a different time, Barrow's timestamps are offset from Adam's by exactly that difference. That is consistent with the rules, and it's a gift to a careful reader. *(Research note 2 in §8 puts the early-1990s forecast at ~00:33, so the K1 offset is about 15 minutes. Research note 3 explains why the date of K1 now matters.)*
 
 **R6. Each fold has one lucid end; the others are gaps. [provisional]**
 The lucid end is the moment whose own circumstances supply local reasons for the script. Adam lives that end fully and remembers it.
@@ -181,13 +181,41 @@ The brief's rule is that an early explanation should be locally correct but glob
 - **What is the structure? [open by design]** The causal facts resolve. Their metaphysical meaning doesn't have to.
 - **The missing notepad page. [open]** At the Y−4 end of the Knot, Adam wrote the sentence on the kitchen notepad. Nobody has found that page. It is held in reserve as a possible late discovery.
 
-### Research flags
+### Research notes (pass 1)
 
-- The late-night Radio 4 shipping forecast: its time in the early 1990s and today, the role of *Sailing By*, and whether past forecast texts can be looked up in a public archive.
-- What an EEG shows during absence seizures (classically 3 Hz spike-and-wave), so that a *normal* EEG during a gap reads as meaningful.
-- Forensic handwriting examination: whether a child writing adult letterforms (line quality, pressure, size, tremor) is distinguishable, and how an examiner would phrase that conclusion.
-- Voice-memo apps: how a typed title and the system date appear in the recordings list.
-- W. E. H. Stanner's use of "everywhen" (in the 1953 essay "The Dreaming"). This is the real-world origin of the word, and it's the ordinary explanation available to Theory A. See the cultural note below.
+This section records what the first research pass found, what each finding means for the design, and what is still unverified. Quotes are short. Wikipedia and a hobbyist blog are good enough for a development pass, but they need a primary source before publication.
+
+**1. The late shipping forecast today.** *Sailing By* plays "at around 00:45". The forecast goes out at **00:48** and "finishes at approximately 00:58". After it come a general weather report, the sign-off, the national anthem, the closedown, and then the BBC World Service "after the pips of the Greenwich Time Signal at 01:00". ([Shipping Forecast](https://en.wikipedia.org/wiki/Shipping_Forecast); [Sailing By](https://en.wikipedia.org/wiki/Sailing_By))
+- *Design:* this matches R5a. The anthem and the pips are now fixed texture for F+10 to F+12 at K2, K3 and T.
+
+**2. The early 1990s.** Before October 1995 the late forecast went out about fifteen minutes earlier, at roughly **00:33**. Simon Elmes, as quoted in a radio blog, has it "in those days fifteen minutes earlier at midnight-thirty". A 1995 plan to move it further provoked "angry newspaper editorials". ([Walmsley's history](http://andywalmsley.blogspot.com/2015/01/a-brief-history-of-shipping-forecast.html); [Shipping Forecast](https://en.wikipedia.org/wiki/Shipping_Forecast))
+- *Design:* at K1, F+0 falls at **~00:33**. Barrow's watch therefore reads about 15 minutes earlier than Adam's clock at every line of the script. That is the offset the W9 reveal depends on. It's verifiable, and the reader can work it out.
+- *Still to verify:* the exact 1993 time, and what followed the forecast in 1993 (closedown, and whether the World Service was simulcast overnight). Source: BBC Genome (Radio Times listings).
+
+**3. *Sailing By* in 1993. This one is important.** According to *The Sunday Times* of 29 August 1993 (via the blog), *Sailing By* was **dropped from weekday schedules** that year to save money, and was reinstated later, by 1995 according to Wikipedia.
+- *Design:* the date of K1 now matters. There are two options:
+  - **(i)** Set K1 before the cut, in spring or early summer 1993, or on a weekend. *Sailing By* then plays at every end, so the motif is unbroken.
+  - **(ii)** Keep K1 in a weekday after August 1993, so that at K1 the forecast simply starts with no tune before it. The rhyme still holds, because the anchor is the forecast, not the tune (R5a). And a reader who knows radio history gets a quiet confirmation that the bible's date is right.
+
+  *Recommendation:* **(i)** for now. It's simpler, and the tune is the image readers will remember.
+
+**4. Sea areas.** Forth is a sea area throughout. In 1993 the area now called FitzRoy was still **Finisterre** (it was renamed in 2002). German Bight and the Utsires all exist by 1993.
+- *Design:* any forecast quoted at K1 must say "Finisterre". Any forecast at K2, K3 or T must say "FitzRoy". This is a free fair-play detail.
+
+**5. Long wave.** The BBC stopped long-wave broadcasting on **27 June 2026**.
+- *Design option:* Adam's father's old long-wave set has gone silent this year, so he listens on DAB. That gives a small, true image of losing a channel to the past, if wanted. Barrow's 1993 radio would have been long wave or FM.
+
+**6. Looking up a past forecast.** The Met Office says "we do not keep an archive of the recordings, only the transcripts". It has released a past forecast transcript in response to a request under the Environmental Information Regulations, and it directs requests for recordings to the BBC. ([Met Office disclosure log](https://acct.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/about-us/legal/foi-disclosure/20190401-disclosure-log_individual-record-2018-19-0002.pdf))
+- *Design:* this suits Adam's job. Loss adjusters handle weather evidence for storm claims as a matter of routine. In W7 he gets the Tuesday and Thursday transcripts through his firm's usual weather-data channel, and they come back within days. The public route, a request under the Regulations, can take about 20 working days, which is too slow for W7.
+- *Still to verify:* whether BBC Sounds keeps the late forecast for replay. The BBC page was blocked during research.
+
+**7. EEG.** Typical absence seizures show generalised **~3 Hz spike-and-wave** discharges at the same time as the episode, and hyperventilation often provokes them. A normal EEG *recorded during* a captured episode argues strongly against absence epilepsy. *(Standard clinical teaching. Confirm the wording with a clinical neurophysiologist before the Barrow chapter.)*
+- *Design:* Barrow's note "no epileptiform activity throughout the episode" carries the weight of Anomaly 7. A 1993 sleep-deprived EEG with an overnight technician is plausible.
+
+**8. Handwriting.** Forensic document examiners judge a writer by line quality, fluency, pressure, proportion and how the letters are constructed. Copying another person's letterforms usually shows up as a loss of fluency. *(General principle. Consult an examiner on whether "an adult's letterforms made with a child's motor control" is something they would actually say, and how cautiously.)*
+- *Design:* the W8 examiner should hedge, as real ones do: "consistent with", not "proves".
+
+**9. Voice-memo apps.** *Not yet checked.* Confirm how a typed title and the recording date appear in the recordings list for the phone Adam is likely to own. The W6 fair-play clue ("Today 00:50") depends on it.
 
 ### Cultural note: the word *everywhen*
 
@@ -195,4 +223,5 @@ Stanner coined *everywhen* in an attempt to convey, in English, something of how
 
 - **The fold mechanics are this novel's invention.** They must never be presented as an Indigenous Australian worldview, nor as a "discovery" of one. Nobody in the book, including the narrator, should claim the Dreaming "explains" Adam.
 - **The word can keep its mystery without pretending it has no history.** If Stanner's book on his father's shelf is how Adam's family came by the word, Adam can find that out. When he does, he should come to understand it as a word someone made to describe *other people's* understanding of time, not as a key to his own condition. That distance is honest, and it fits the book's theme of the limits of explanation.
+- **What the first research pass found.** In "The Dreaming" (1953, collected in *White Man Got No Dreaming*, 1979), Stanner described the concept as best understood by outsiders as "a complex of meanings", and coined *everywhen* for it ([The Dreaming](https://en.wikipedia.org/wiki/The_Dreaming)). The English words "Dreaming" and "Dreamtime" are themselves contested. One account calls "Dreamtime" a mistranslation, and some Aboriginal groups object to "Dreaming" because it suggests something unreal. Language-specific terms include *Jukurrpa* (Warlpiri), *Tjukurpa* (Pitjantjatjara) and *Altjira* (Arrernte). So the word Adam inherits is already a translation of a translation, made by an outsider. That fits the book's theme, but it must be handled with care, not borrowed for its depth.
 - **The research pass should read Stanner properly**, along with Aboriginal writing on the Dreaming and later criticism of his framing, before any scene leans on the word's origin. Consider a sensitivity read if that scene stays.
